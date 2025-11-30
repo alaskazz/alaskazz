@@ -1,11 +1,11 @@
 ## Обо мне
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/> **JavaScript** - основной язык; люблю чистый, простой код.
-- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/> **Node.js** - серверные утилиты и скрипты.
+- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/> **Node.js** - серверные утилиты и библиотеки.
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/> **HTML** · <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/> **CSS** · <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/> **TailwindCSS** - аккуратная вёрстка и адаптивные интерфейсы.
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/> Использую **CachyOS (KDE)**; параллельно - Windows 10.
-- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/> Редактор: **VS Code**.
+- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/> Редактор: **VS Code** / **Zed**.
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/> **Git** - рабочие навыки.
-- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/> **Figma** - работа с макетами и стилями (базово).
+- <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/> **Figma** - работа с макетами и стилями.
 - <img width="14" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/> Базы данных: основы SQL / NoSQL.  
 - Экспериментирую с новыми технологиями и нейросетями; умею грамотно формулировать промпты.  
 - Английский - уверенное чтение технической документации и понимание аудио.
